@@ -1,1 +1,1 @@
-testing my settings
+testing my setup
